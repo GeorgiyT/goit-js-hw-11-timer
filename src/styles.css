@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background: #acdad0;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+.value {
+  color: #396;
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
+.timer {
+  padding-top: 200px;
+  font-family: sans-serif;
+  color: black;
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+}
+.field {
+  padding: 10px;
+  border-radius: 3px;
+  background: #6fbeaf;
+  display: inline-block;
+}
+.countdown-time {
+  padding: 15px;
+  border-radius: 3px;
+  background: rgb(248, 246, 246);
+  display: inline-block;
+}
+.countdown-text {
+  display: block;
+  padding-top: 5px;
+  font-size: 16px;
+}
